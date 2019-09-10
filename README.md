@@ -2,7 +2,7 @@
 
 Author: Harleigh Awner
 
-Design: A simple text adventure where you retrieve Lolly's hammock for you. How can you say no to her?
+Design: A simple text adventure where you retrieve Lolly's hammock. How can you say no to her?
 
 Screen Shot:
 
