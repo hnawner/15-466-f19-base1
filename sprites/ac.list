@@ -1,0 +1,18 @@
+"ac.xcf?dirt&grass&sky" 0 0 256 224 0 0 background
+"ac.xcf?l_sign&l_fence&l_house&l_smoke" 64 7 207 168 +0 +0 lolly-house
+"ac.xcf?g_sign&g_fence&g_house" 63 31 206 167 +0 +0 goldie-house
+"ac.xcf?lolly" 174 114 206 175 +0 +0 lolly
+"ac.xcf?player" 51 120 86 172 +0 +0 player
+"ac.xcf?goldie" 163 122 201 173 +0 +0 goldie
+"ac.xcf?leaf_player" 78 149 94 164 +0 +0 leaf_player
+"ac.xcf?leaf_lolly" 190 152 205 166 +0 +0 leaf_lolly
+"ac.xcf?text-request" 3 8 252 49 +0 +0 text-request
+"ac.xcf?text-no-hammock" 5 52 207 69 +0 +0 text-no-hammock
+"ac.xcf?text-thanks" 2 9 82 25 +0 +0 text-thanks
+"ac.xcf?text-give-hammock" 9 202 100 219 +0 +0 text-give-hammock
+"ac.xcf?text-goto-goldies" 9 186 91 203 +0 +0 text-goto-goldies
+"ac.xcf?text-greeting" 4 10 218 26 +0 +0 text-greeting
+"ac.xcf?text-give-leaf" 3 9 250 42 +0 +0 text-give-leaf
+"ac.xcf?text-request-item" 10 202 122 219 +0 +0 text-request-item
+"ac.xcf?text-goto-lolly" 11 186 82 203 +0 +0 text-goto-lolly
+

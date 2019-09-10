@@ -1,6 +1,6 @@
 
 /*
- * StoryMode implements a story about The Planet of Choices.
+ * StoryMode implements a story about Fetch Quests.
  *
  */
 
@@ -19,25 +19,19 @@ struct StoryMode : Mode {
 
 	//------ story state -------
 	enum {
-		Dunes,
-		Oasis,
-		Hill
-	} location = Dunes;
-	bool have_stone = false;
-	bool added_stone = false;
+        Lolly,
+        Goldie
+	} location = Lolly;
+    bool has_leaf = false;
 	struct {
 		bool first_visit = true;
-		bool wont_leave = false;
-	} dunes;
+		bool gave_leaf = false;
+	} lollys;
 	struct {
 		bool first_visit = true;
-		bool took_stone = false;
-	} oasis;
-	struct {
-		bool first_visit = true;
-		bool added_stone = false;
-	} hill;
-	
+		bool took_leaf = false;
+	} goldies;
+
 	glm::vec2 view_min = glm::vec2(0,0);
 	glm::vec2 view_max = glm::vec2(256, 224);
 };
