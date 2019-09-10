@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Animal Crossing Fetch Quest
 
-Author: (TODO: your name)
+Author: Harleigh Awner
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: A simple text adventure where you retrieve Lolly's hammock for you. How can you say no to her?
 
 Screen Shot:
 
@@ -10,10 +10,10 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Arrow keys to select options.
 
 Art Sources:
 
-(TODO: fill in information about the sources of any artwork you used in the game that you did not draw.)
+Assets are inspired by Animal Crossing, but I made them myself in GIMP-2.10.
 
 This game was built with [NEST](NEST.md).
